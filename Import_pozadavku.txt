@@ -1,5 +1,4 @@
- Klíčové pojmy:
-----------------
+Key_concepts
 - maximum, minimum, supremum, infimum 
 - kruhové/prstencové okolí bodu
 - limita funkce v bodě (též zleva, zprava)
@@ -17,8 +16,7 @@
 - Newtonův integrál
 - (horní a dolní) Riemannův integrál 
 
- Definice:
------------
+Definitions
 - spočetné a nespočetné množiny
 - početní operace s nekonečny
 - (ne)rostoucí, (ne)klesající funkce
@@ -36,8 +34,7 @@
 - limsup, liminf
 
 
- Lehké věty:
--------------
+Easy_theorems
 - trojúhelníková nerovnost
 - Cauchy-Schwarzova nerovnost
 - AG nerovnost
@@ -82,8 +79,7 @@
 - 1. věta o střední hodnotě pro určitý integrál
 - 2. věta o střední hodnotě pro určitý integrál
 
- Těžké věty:
--------------
+Hard_theorems
 - aritmetika limit -- verze s nekonečny 
 - Darbouxova věta
 - derivace složené funkce 
@@ -101,8 +97,7 @@
 - spojitá funkce a R.i.
 - hlavní věta diferenciálního a integrálního počtu
 
- Věty bez důkazu:
-------------------
+Theorems_without_proof
 - o speciální pravé straně pro lineární ODR 2. řádu
 - rozklad na parciální zlomky
 - epsilon-D podmínka existence R.i.

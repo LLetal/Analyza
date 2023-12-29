@@ -1,0 +1,104 @@
+Key_concepts
+- maximum, minimum, supremum, infimum 
+- kruhové/prstencové okolí bodu
+- limita funkce v bodě (též zleva, zprava)
+- spojitost funkce v bodě
+- spojitost funkce v intervalu
+- derivace funkce (též zleva, zprava)
+- primitivní funkce
+- lineární diferenciální rovnice 2. řádu
+- metoda variace konstant
+- lokální a globální extrém funkce na množině, monotonie funkce
+- konvexní a konkávní funkce, inflexní bod
+- posloupnost: limita, konvergence
+- Bolzano-Cauchyho podmínka
+- n-tý Taylorův polynom funkce v bodě
+- Newtonův integrál
+- (horní a dolní) Riemannův integrál 
+
+Definitions
+- spočetné a nespočetné množiny
+- početní operace s nekonečny
+- (ne)rostoucí, (ne)klesající funkce
+- elementární funkce 
+- omezená posloupnost, monotonní posloupnost
+- podposloupnost neboli posloupnost vybraná
+- k-tá derivace funkce
+- funkce třídy C^k na intervalu
+- zobecněné kombinační číslo
+- Taylorův zbytek funkce
+- dělení intervalu, horní a dolní součet
+- malé ,,ó``, velké ,,Ó``, silná a slabá ekvivalence
+- stejnoměrná spojitost funkce
+- asymptota funkce
+- limsup, liminf
+
+
+Easy_theorems
+- trojúhelníková nerovnost
+- Cauchy-Schwarzova nerovnost
+- AG nerovnost
+- souvislost limity a jednostranných limit 
+- o jednoznačnosti limity
+- omezenost / odraženost funkce s limitou 
+- aritmetika limit -- konečná verze
+- limita typu: omezená krát jdoucí do nuly
+- vztah limity a spojitosti
+- limita složené funkce 
+- zachování nerovnosti v limitě 
+- o dvou policajtech 
+- vztah spojitosti v bodě a v intervalu
+- vztah spojitosti a derivace
+- derivace součtu, součinu, podílu 
+- vztah derivace a spojitosti
+- nejednoznačnost primitivní funkce
+- linearita integrálu
+- integrace per-partes 
+- 1. věta o substituci
+- 2. věta o substituci
+- spojitost a omezenost na okolí 
+- vztah derivace a extrému
+- Rolleova o střední hodnotě 
+- Lagrangeova o střední hodnotě 
+- výpočet derivace limitou
+- jednoznačnost řešení ODR 1. řádu
+- metoda integračního faktoru pro ODR 1.řádu
+- spojité napojení primitivní funkce 
+- Cauchyho o střední hodnotě 
+- vztah monotonie a znaménko derivace
+- postačující podmínka pro existenci lokálního extrému
+- konvexita a monotonie derivace
+- konvexita a znaménko f''
+- omezenost posloupnosti a konvergence 
+- monotonní posloupnost a limita
+- Leibnitzova věta
+- Riemannovské součty a zjemnění dělení
+- monotónní funkce a R.i.
+- linearita R.i. pro spojitou funkci
+- intervalová aditivita pro R.i.
+- 1. věta o střední hodnotě pro určitý integrál
+- 2. věta o střední hodnotě pro určitý integrál
+
+Hard_theorems
+- aritmetika limit -- verze s nekonečny 
+- Darbouxova věta
+- derivace složené funkce 
+- derivace inverzní funkce 
+- nabývání extrémů na intervalu
+- l'Hospitalovo pravidlo
+- inverze spojité, monotónní funkce
+- Bolzano-Weierstrassova
+- B.C. podmínka a konvergence posloupnosti
+- Heineho věta
+- aproximační vlastnost Taylorova polynomu
+- Lagrangeův tvar Taylorova zbytku 
+- Cauchyův tvar Taylorova zbytku
+- stejnoměrná spojitost fce na intervalu
+- spojitá funkce a R.i.
+- hlavní věta diferenciálního a integrálního počtu
+
+Theorems_without_proof
+- o speciální pravé straně pro lineární ODR 2. řádu
+- rozklad na parciální zlomky
+- epsilon-D podmínka existence R.i.
+
