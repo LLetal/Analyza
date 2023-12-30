@@ -5,5 +5,6 @@ Mnou zpracované materiály ke zkoušce z analýzy - vesměs přepsané definice
 # K momentálnímu stavu
 V současné době jsou v zde téměř všechny definice a klíčové pojmy (chybí ty, které jsme nebrali/nenašel jsem ve skriptech definici). Postupně se budu snažit přidávat všechny ostatní věci ze seznamu. Mimo to se zde nachází velmi jednoduchý zkoušecí, který z všech možných otázek vybere náhodně nějaké, které zadá. Občas to vyplivne nulový output, v takovém případě prostě funkci stačí spustit znovu.
 
-
+# Číslování
+Čislování používám z těchto skript https://www.karlin.mff.cuni.cz/~lavicka/vyuka/maf/skripta_MAF_cerny_pokorny.pdf
 
