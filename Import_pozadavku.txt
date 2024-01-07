@@ -23,7 +23,7 @@ Definitions
 - elementární funkce 
 - omezená posloupnost, monotonní posloupnost
 - podposloupnost neboli posloupnost vybraná
-- k-tá derivace funkce
+- k-tá derivace funkce)
 - funkce třídy C^k na intervalu
 - zobecněné kombinační číslo
 - Taylorův zbytek funkce
